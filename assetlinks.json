@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mctwister",
+      "sha256_cert_fingerprints": [
+        "6C:ED:5C:85:03:13:CE:AD:4A:4E:D1:81:BB:F7:71:34:3C:A4:08:A3:D2:54:F6:1D:FB:13:4B:C8:C6:C5:13:C3"
+      ]
+    }
+  }
+]
