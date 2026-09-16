@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "H6QQWJ64C8.com.mctwister"
+        ],
+        "components": [
+          {
+            "/": "/youtube/*"
+          }
+        ]
+      }
+    ]
+  }
+}
